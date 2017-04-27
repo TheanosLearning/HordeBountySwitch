@@ -1,4 +1,4 @@
-# Horde Bounty Switch (best bounty)
+# [Horde Bounty Switch](#switch-table) (best bounty)
 
 ### At what level should we switch bounties in order to maximize credits for a given run of 1-50 ?
 
@@ -19,7 +19,7 @@ Given the current ReUp and Horde difficulty, at which level should we switch fro
 * Casual `Horde Survival I` (500 credits)   vs `[Class] Survival II`<sup>1</sup> (50000 XP)
 
 ---
-### Level to switch at:
+### Level to switch at <a id="switch-table"></a>:
 
 |                	| **ReUp** 	|  0 	|  1 	|  2 	|  3 	|  4 	|  5 	|  6 	|  7 	|  8 	|  9 	|  10 	|
 |:--------------:	|:--------:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:---:	|
