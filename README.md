@@ -11,7 +11,7 @@ Given the current ReUp and Horde difficulty, at which level should we switch fro
 ![Switch](https://github.com/TheanosLearning/HordeBountySwitch/raw/master/images/bounty-switch.png)
 <br/>
 <br/>
-### Level to switch at
+### Level to switch at:
 
 |                	| **ReUp** 	|  0 	|  1 	|  2 	|  3 	|  4 	|  5 	|  6 	|  7 	|  8 	|  9 	|  10 	|
 |:--------------:	|:--------:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:--:	|:---:	|
@@ -21,6 +21,7 @@ Given the current ReUp and Horde difficulty, at which level should we switch fro
 |     Normal     	|          	| 35 	| 32 	| 29 	| 26 	| 24 	| 22 	| 21 	| 19 	| 18 	| 16 	| N/A 	|
 |     Casual     	|          	| 44 	| 40 	| 36 	| 33 	| 31 	| 28 	| 26 	| 25 	| 23 	| 21 	| N/A 	|
 <br/>
-Results derived by using **exact** data from the [Gears 4 XP Table](https://github.com/TheanosLearning/Gears4XpLevels) :
+
+Results derived by using **exact** data from the [Gears 4 XP Table](https://github.com/TheanosLearning/Gears4XpLevels)
 
 ![formula](http://sharemath.com/6Q71Ngqs.png)
