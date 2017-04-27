@@ -11,6 +11,7 @@ Given the current ReUp and Horde difficulty, at which level should we switch fro
 ![Switch](https://github.com/TheanosLearning/HordeBountySwitch/raw/master/images/bounty-switch.png)
 <br/>
 <br/>
+###### Bounties
 
 * Insane Survival I (1000 credits) vs Insanve Survival II (75000 XP)
 * Hardcore Survival I (800 credits) vs Hardcore Survival II (60000 XP)
