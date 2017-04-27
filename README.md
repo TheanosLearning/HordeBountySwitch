@@ -13,10 +13,10 @@ Given the current ReUp and Horde difficulty, at which level should we switch fro
 <br/>
 ###### Bounties
 
-* Insane Survival I (1000 credits) vs Insane Survival II (75000 XP)
-* Hardcore Survival I (800 credits) vs Hardcore Survival II (60000 XP)
-* Normal Survival I (600 credits) vs Normal Survival II (50000 XP)
-* Horde Survival I (500 credits) vs [Class]<sup>1</sup> Survival II (50000 XP)
+* `Insane Survival I` (1000 credits) vs `Insane Survival II` (75000 XP)
+* `Hardcore Survival I` (800 credits) vs `Hardcore Survival II` (60000 XP)
+* `Normal Survival I` (600 credits) vs `Normal Survival II` (50000 XP)
+* Casual `Horde Survival I` (500 credits) vs `[Class]<sup>1</sup> Survival II` (50000 XP)
 
 ### Level to switch at:
 
@@ -29,7 +29,7 @@ Given the current ReUp and Horde difficulty, at which level should we switch fro
 |     Casual     	|          	| 44 	| 40 	| 36 	| 33 	| 31 	| 28 	| 26 	| 25 	| 23 	| 21 	| N/A 	|
 <br/>
 
-Results derived by using **exact** data from the [Gears 4 XP Table](https://github.com/TheanosLearning/Gears4XpLevels) :
+Results derived by using data from the [Gears 4 XP Table](https://github.com/TheanosLearning/Gears4XpLevels) and the following formula:
 <br/>
 <br/>
 
@@ -37,4 +37,4 @@ Results derived by using **exact** data from the [Gears 4 XP Table](https://gith
 
 This means if you are playing on insane, use the XP bounty until you are level 29 (ReUp 0) and switch to the credits bounty after that.
 
-
+<sup>1</sup>On casual difficulty it's better to use a `Class (Scout, Heavy, etc..) Survival II` bounty for 50000 XP than a `Horde Survival II` for 30000 XP
