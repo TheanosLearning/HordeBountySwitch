@@ -6,7 +6,7 @@ This table was created to supplement and refine the data presented by [BChaps](h
 
 [![Better Bounty?](https://github.com/TheanosLearning/HordeBountySwitch/raw/master/images/betterbounty.png)](https://www.youtube.com/watch?v=ojRjj3M8rl4)
 
-Given the current ReUp and Horde difficulty, at which level should we switch from using a `Survival II` XP bounty to a`Survival I` credits bounty ?
+Given the current ReUp and Horde difficulty, at which level should we switch from using a `Survival II` XP bounty to a `Survival I` credits bounty ?
 
 ![Switch](https://github.com/TheanosLearning/HordeBountySwitch/raw/master/images/bounty-switch.png)
 <br/>
