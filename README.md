@@ -33,7 +33,7 @@ Results derived by using **exact** data from the [Gears 4 XP Table](https://gith
 <br/>
 <br/>
 
-![formula-example](http://sharemath.com/6Q71Ngqs.png)
+![formula-example](https://github.com/TheanosLearning/HordeBountySwitch/raw/master/images/formula-demo.png)
 
 This means if you are playing on insane, use the XP bounty until you are level 29 (ReUp 0) and switch to the credits bounty after that.
 
