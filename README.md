@@ -24,4 +24,6 @@ Given the current ReUp and Horde difficulty, at which level should we switch fro
 
 Results derived by using **exact** data from the [Gears 4 XP Table](https://github.com/TheanosLearning/Gears4XpLevels)
 <br/>
+<br/>
+
 ![formula-example](http://sharemath.com/6Q71Ngqs.png)
