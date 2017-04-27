@@ -18,7 +18,6 @@ Given the current ReUp and Horde difficulty, at which level should we switch fro
 * `Normal Survival I`       (600 credits)   vs `Normal Survival II`   (50000 XP)
 * Casual `Horde Survival I` (500 credits)   vs `[Class] Survival II`<sup>1</sup> (50000 XP)
 <a id="switch-table"></a>
-<br/>
 ---
 ### Level to switch at:
 
