@@ -1,4 +1,4 @@
-# Horde Bounty Switch (better bounty)
+# Horde Bounty Switch (best bounty)
 
 ### At what level should we switch bounties in order to maximize credits for a given run of 1-50 ?
 
