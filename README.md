@@ -2,7 +2,7 @@
 
 ### At what level should we switch bounties in order to maximize credits for a given run of 1-50 ?
 
-This table was created to supplement and refine the data presented by [BChaps](https://gearsofwar.com/en-us/players/bchaps) in his [Chaps Math](https://www.youtube.com/playlist?list=PLZgFP3wqGQNR-ZDlcfVs0RjSvrkqigPy6) video series on the &nbsp;&nbsp; [GoW Tac-Com](https://www.youtube.com/channel/UCxzFwwwU9Y3wm3FKzR8moyQ) Youtube channel.
+This table was created to supplement and refine the data presented by [BChaps](https://gearsofwar.com/en-us/players/bchaps) in his [Chaps Math](https://www.youtube.com/playlist?list=PLZgFP3wqGQNR-ZDlcfVs0RjSvrkqigPy6) video series on the <br/>[GoW Tac-Com](https://www.youtube.com/channel/UCxzFwwwU9Y3wm3FKzR8moyQ) Youtube channel.
 
 [![Better Bounty?](https://github.com/TheanosLearning/HordeBountySwitch/raw/master/images/betterbounty.png)](https://www.youtube.com/watch?v=ojRjj3M8rl4)
 
