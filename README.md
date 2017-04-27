@@ -13,10 +13,10 @@ Given the current ReUp and Horde difficulty, at which level should we switch fro
 <br/>
 ###### Bounties
 
-* `Insane Survival I` (1000 credits) vs `Insane Survival II` (75000 XP)
-* `Hardcore Survival I` (800 credits) vs `Hardcore Survival II` (60000 XP)
-* `Normal Survival I` (600 credits) vs `Normal Survival II` (50000 XP)
-* Casual `Horde Survival I` (500 credits) vs `[Class] Survival II`<sup>1</sup> (50000 XP)
+* `Insane Survival I`       (1000 credits)  vs `Insane Survival II`   (75000 XP)
+* `Hardcore Survival I`     (800 credits)   vs `Hardcore Survival II` (60000 XP)
+* `Normal Survival I`       (600 credits)   vs `Normal Survival II`   (50000 XP)
+* Casual `Horde Survival I` (500 credits)   vs `[Class] Survival II`<sup>1</sup> (50000 XP)
 
 ### Level to switch at:
 
