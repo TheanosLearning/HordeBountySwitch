@@ -1,4 +1,5 @@
 # HordeBountySwitch
-A table describing at which level you should switch from an XP bounty to a credits bounty in order to maximize credits.
 
-Some Markdown text with <span style="color:blue">some *blue* text</span>.
+This table was created to supplement and refine the data presented by [BChaps](https://gearsofwar.com/en-us/players/bchaps) in his [ChapsMath](https://www.youtube.com/playlist?list=PLZgFP3wqGQNR-ZDlcfVs0RjSvrkqigPy6) series on the [GoW Tac-Com](https://www.youtube.com/channel/UCxzFwwwU9Y3wm3FKzR8moyQ) Youtube channel.
+
+
