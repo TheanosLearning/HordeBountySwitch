@@ -29,7 +29,7 @@ Given the current ReUp and Horde difficulty, at which level should we switch fro
 |     Casual     	|          	| 44 	| 40 	| 36 	| 33 	| 31 	| 28 	| 26 	| 25 	| 23 	| 21 	| N/A 	|
 <br/>
 
-Results derived by using **exact** data from the [Gears 4 XP Table](https://github.com/TheanosLearning/Gears4XpLevels)
+Results derived by using **exact** data from the [Gears 4 XP Table](https://github.com/TheanosLearning/Gears4XpLevels) :
 <br/>
 <br/>
 
