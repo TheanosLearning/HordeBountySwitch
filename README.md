@@ -11,6 +11,12 @@ Given the current ReUp and Horde difficulty, at which level should we switch fro
 ![Switch](https://github.com/TheanosLearning/HordeBountySwitch/raw/master/images/bounty-switch.png)
 <br/>
 <br/>
+
+* Insane Survival I (1000 credits) vs Insanve Survival II (75000 XP)
+* Hardcore Survival I (800 credits) vs Hardcore Survival II (60000 XP)
+* Normal Survival I (600 credits) vs Normal Survival II (50000 XP)
+* Horde Survival I (500 credits) vs [Class]* Survival II (50000 XP)
+
 ### Level to switch at:
 
 |                	| **ReUp** 	|  0 	|  1 	|  2 	|  3 	|  4 	|  5 	|  6 	|  7 	|  8 	|  9 	|  10 	|
@@ -27,3 +33,5 @@ Results derived by using **exact** data from the [Gears 4 XP Table](https://gith
 <br/>
 
 ![formula-example](http://sharemath.com/6Q71Ngqs.png)
+
+This means if you are playing on insane, use the XP bounty until you are level 29 (ReUp 0) and switch to the credits bounty after that.
