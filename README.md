@@ -39,7 +39,8 @@ Results derived by using data from the [Gears 4 XP Table](https://github.com/The
 ![formula-example](https://github.com/TheanosLearning/HordeBountySwitch/raw/master/images/formula-demo-2.png)
 
 This means if you are playing on insane and are currently ReUp 0, use the XP bounty until you are level 29, then switch to the credits bounty after that.
-
+<br/>
+---
 <sup>1</sup> On casual difficulty, it's better to use a `Class (Scout, Heavy, etc..) Survival II` bounty for 50000 XP than a `Horde Survival II` bounty for 30000 XP.
 
 <sup>2</sup> N/A means that you should never equip an XP bounty but always use a credit bounty.
